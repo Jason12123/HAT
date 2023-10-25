@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: hierachical-attention-network-for-document-classification
+Version: 0.1.0
+Summary: An Keras inplementation of Hierarchical Attention Networks for document classification.
+Home-page: UNKNOWN
+Author: Kaiqi Dong
+Author-email: kaiqidong1991@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

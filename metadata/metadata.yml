@@ -1,0 +1,25 @@
+metadata_version: 1
+name: Final_Interpretable Deep Learning to Detect Alzheimer's Disease
+description: |-
+  Alzheimer’s disease is one of the leading causes of death in the world. Alzheimer’s is typically diagnosed
+  through expensive imaging methods, such as positron emission tomography (PET) scan and magnetic res-
+  onance imaging (MRI), as well as invasive methods, such as cerebrospinal fluid analysis. In this study, we
+  develop an interpretable hierarchical deep learning model to detect the presence of Alzheimer’s disease from
+  interview transcripts of individuals who were asked to describe a picture. Our deep recurrent neural net-
+  work employs a novel attention over self-attention (AoS) mechanism to model the temporal dependencies
+  of longitudinal data. We demonstrate the interpretability of the model with the importance score of words,
+  sentences, and transcripts extracted from our three-level hierarchical AoS model. Numerical results demon-
+  strate that our deep learning model can detect Alzheimer’s disease from the transcript of patient interviews
+  with 98% accuracy when tested on the DementiaBank dataset. Our interpretable neural network model can
+  help diagnose Alzheimer’s disease in a non-invasive and affordable manner, improve patient outcomes, and
+  result in cost containment.
+authors:
+- name: Maryam Zokaeinikoo
+  affiliations:
+  - name: Clinical Assistant Professor
+- name: Pooyan Kazemian
+  affiliations:
+  - name: Assistant Professor
+- name: Prasenjit Mitra
+  affiliations:
+  - name: Professor
